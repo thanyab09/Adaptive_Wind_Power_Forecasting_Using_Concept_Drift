@@ -13,7 +13,9 @@
 **Academic Year:** 2025–2026 | October 2026  
 
 > 📊 **Official Deliverables for Viva Examination:**
-> - 🖥️ **Presentation Deck (20 Slides, Widescreen 16:9):** [`reports/Adaptive_Wind_Power_Forecasting_Team_B14.pptx`](reports/Adaptive_Wind_Power_Forecasting_Team_B14.pptx)
+> - 📄 **Simplified 15-Slide Presentation (PDF, Easy to Present):** [`reports/Adaptive_Wind_Power_Forecasting_Team_B14_15Slides.pdf`](reports/Adaptive_Wind_Power_Forecasting_Team_B14_15Slides.pdf)
+> - 🖥️ **Simplified 15-Slide Presentation (PPTX):** [`reports/Adaptive_Wind_Power_Forecasting_Team_B14_15Slides.pptx`](reports/Adaptive_Wind_Power_Forecasting_Team_B14_15Slides.pptx)
+> - 🖥️ **Comprehensive 20-Slide Presentation Deck (PPTX):** [`reports/Adaptive_Wind_Power_Forecasting_Team_B14.pptx`](reports/Adaptive_Wind_Power_Forecasting_Team_B14.pptx)
 > - 📄 **Complete 69-Page Final Project Report:** [`reports/Adaptive_Wind_Power_Forecasting_Team_B14_Final_Report.pdf`](reports/Adaptive_Wind_Power_Forecasting_Team_B14_Final_Report.pdf)
 > - 🎓 **Viva Voce & Technical Guide:** [`reports/Project_Explanation_and_Viva_Guide.pdf`](reports/Project_Explanation_and_Viva_Guide.pdf)
 
