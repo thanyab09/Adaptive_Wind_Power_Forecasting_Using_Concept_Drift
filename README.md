@@ -308,9 +308,4 @@ To open and debug in Visual Studio Code:
 
 ## 10. Authors & Acknowledgements
 
-This software project was developed in partial fulfilment of the requirements for the degree of **Bachelor of Technology in Artificial Intelligence and Machine Learning** at **Panimalar Engineering College**, affiliated to Anna University, Chennai.
-
-- **Students:** Thanya B (211423247227) & Thejessri S (211423247229)
-- **Project Supervisor:** Mr. M. Ezhilvendhan, M.E., Assistant Professor
-- **Head of Department:** Dr. G. Suresh, M.Tech., Ph.D., Professor & HoD
-- **Project Coordinator:** Dr. B. Prabha, M.Tech., Ph.D.
+- Thanya B & Thejessri S
