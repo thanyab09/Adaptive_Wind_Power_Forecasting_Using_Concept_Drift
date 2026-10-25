@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-slate-50/70 text-slate-800 font-sans antialiased;
+  }
+}
+
+/* Minimal soft scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #F8FAFC;
+}
+::-webkit-scrollbar-thumb {
+  background: #CBD5E1;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94A3B8;
+}
+
+/* Recharts grid line styling for light pastel theme */
+.recharts-cartesian-grid-horizontal line,
+.recharts-cartesian-grid-vertical line {
+  stroke: #F1F5F9;
+  stroke-width: 1;
+}
+
+.recharts-tooltip-cursor {
+  stroke: #CBD5E1;
+  stroke-dasharray: 4 4;
+}
+
+/* Smooth transitions */
+button, a, input, select {
+  transition: all 0.15s ease-in-out;
+}
