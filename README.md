@@ -5,12 +5,9 @@
 *Panimalar Engineering College (An Autonomous Institution, Affiliated to Anna University, Chennai)*  
 
 **Candidates:**  
-- **Thanya B** `[211423247227]`  
-- **Thejessri S** `[211423247229]`  
+- **Thanya B** 
+- **Thejessri S**   
 
-**Supervisor:** Mr. M. Ezhilvendhan, M.E.  
-**Head of Department:** Dr. G. Suresh, M.Tech., Ph.D.  
-**Academic Year:** October 2026  
 
 ---
 
